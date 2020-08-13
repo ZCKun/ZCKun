@@ -1,6 +1,13 @@
 ### Hi there 👋
 
  my blog [2h0n9](http://zckun.github.io/)
+ 
+ 2001
+ High school
+ Recently learning Machine Learning
+ 
+ WeChat public account the2h0Ng
+ WeChat ID zlztxwd
 
 <!--
 **ZCKun/ZCKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
