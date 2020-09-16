@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=zckun&show_icons=true&count_private=true)](https://github.com/ZCKun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zckun&layout=compact)](https://github.com/zckun)
