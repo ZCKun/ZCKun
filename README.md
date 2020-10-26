@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+fuck you, windows
+
  my blog [2h0n9](http://zckun.github.io/)
  
  - 🥀 2001
