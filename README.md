@@ -6,7 +6,6 @@ fuck you, windows
  
  - 🥀 2001
  - 🏫 High school
- - 📖 Recently learning Machine Learning
  - 👯 WeChat public account the2h0Ng
  - 💬 WeChat ID zlztxwd
 
