@@ -8,6 +8,8 @@ fuck you, windows
  - 🏫 High school
  - 👯 WeChat public account the2h0Ng
  - 💬 WeChat ID zlztxwd
+ 
+python, c++ engineer
 
 <!--
 **ZCKun/ZCKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
