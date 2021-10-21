@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 fuck you, windows
+傻逼Windows，操你妈
+
 
  my blog [2h0n9](http://zckun.github.io/)
  
