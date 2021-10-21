@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-fuck you, windows
+fuck you, windows \
 傻逼Windows，操你妈
 
 
