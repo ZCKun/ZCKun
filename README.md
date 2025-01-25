@@ -1,19 +1,11 @@
 ### Hi there 👋
 
-fuck you, Windows \
-傻逼Windows，操你妈
-
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=zckun&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true" width = 460>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zckun&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" width = 340>
 </p>
 
  my blog [2h0n9](http://zckun.github.io/)
- 
- - 🥀 2001
- - 🏫 High school
- - 👯 WeChat public account the2h0Ng
- - 💬 WeChat ID zlztxwd
  
 python, c++ engineer
 
